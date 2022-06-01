@@ -1,10 +1,10 @@
 {
+  "version": "0.0.1",
+  "license": "MIT",
   "name": "vscode-remix",
   "displayName": "vscode-remix",
-  "publisher": "Suraj Mandal",
-  "license": "MIT",
-  "description": "Pleasant to eyes vscode color schemes",
-  "version": "0.0.1",
+  "description": "Pleasant to look at vscode colour schemes",
+  "publisher": "surajmandalcell",
   "repository": {
     "type": "git",
     "url": "https://github.com/surajmandalcell/vscode-remix"
