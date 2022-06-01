@@ -2,8 +2,8 @@
   "version": "0.0.1",
   "license": "MIT",
   "name": "vscode-remix",
-  "displayName": "vscode-remix",
-  "description": "Pleasant to look at vscode colour schemes",
+  "displayName": "Remix Theme",
+  "description": "Pleasant to look at color theme",
   "publisher": "surajmandalcell",
   "repository": {
     "type": "git",
