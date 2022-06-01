@@ -1,0 +1,21 @@
+{
+    "name": "vscode-remix",
+    "displayName": "vscode-remix",
+    "description": "Pleasant to eyes vscode color schemes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Remix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Remix-color-theme.json"
+            }
+        ]
+    }
+}
