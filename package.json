@@ -10,6 +10,19 @@
     "email": "dev@surajmandal.in",
     "url": "https://surajmandal.in"
   },
+  "tags": [
+    "theme",
+    "vscode",
+    "remix",
+    "remix-theme",
+    "remix-themes",
+    "vscode-remix",
+    "remix-themes-vscode",
+    "remix-themes-vscode-extension",
+    "surajmandal",
+    "surajmandalcell",
+    "surajmandalcell.remix-theme"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/surajmandalcell/vscode-remix"
