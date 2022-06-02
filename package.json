@@ -5,6 +5,11 @@
   "displayName": "Remix Theme",
   "description": "Pleasant to look at color theme",
   "publisher": "surajmandalcell",
+  "author": {
+    "name": "Suraj Mandal",
+    "email": "dev@surajmandal.in",
+    "url": "https://surajmandal.in"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/surajmandalcell/vscode-remix"
