@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "name": "vscode-remix",
   "displayName": "Remix Theme",
@@ -15,6 +15,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#181818",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -23,5 +28,8 @@
         "path": "./themes/Remix-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Suraj Mandal"
   }
 }
