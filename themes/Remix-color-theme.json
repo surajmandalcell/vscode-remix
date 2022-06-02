@@ -185,7 +185,7 @@
     "inputValidation.warningBorder": "#fd9353",
     "inputValidation.warningForeground": "#fd9353",
 
-    "list.activeSelectionBackground": "#f0a0752d",
+    "list.activeSelectionBackground": "#f0a07522",
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#121212bf",
     "list.errorForeground": "#fc8f61",
@@ -333,7 +333,7 @@
 
     "titleBar.activeBackground": "#121212",
     "titleBar.activeForeground": "#8f8c8c",
-    "titleBar.border": "#0d0c0c",
+    "titleBar.border": "#121212",
     "titleBar.inactiveBackground": "#121212",
     "titleBar.inactiveForeground": "#474747",
 
