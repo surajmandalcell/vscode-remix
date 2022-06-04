@@ -4,7 +4,7 @@
 npm i -g vsce
 
 vsce login surajmandalcell
-vsce package
+vsce package -o _releases/
 vsce publish
 
 # To update
