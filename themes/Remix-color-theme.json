@@ -50,7 +50,7 @@
     "dropdown.foreground": "#8f8c8c",
     "dropdown.listBackground": "#373535",
 
-    "editor.background": "#181818",
+    "editor.background": "#1a1a1a",
     "editor.foreground": "#cccccc",
 
     "editor.findMatchBackground": "#fff5f526",
@@ -95,7 +95,7 @@
 
     // Gutter
     "editorGutter.addedBackground": "#cbf075",
-    "editorGutter.background": "#181818",
+    "editorGutter.background": "#1a1a1a",
     "editorGutter.deletedBackground": "#f0a075",
     "editorGutter.modifiedBackground": "#75f0f0",
 
@@ -185,8 +185,8 @@
     "inputValidation.warningBorder": "#fd9353",
     "inputValidation.warningForeground": "#fd9353",
 
-    "list.activeSelectionBackground": "#f0a07522",
-    "list.activeSelectionForeground": "#ffffff",
+    "list.activeSelectionBackground": "#f0a07574",
+    "list.activeSelectionForeground": "#fefefe",
     "list.dropBackground": "#121212bf",
     "list.errorForeground": "#fc8f61",
     "list.focusBackground": "#181818",
@@ -305,12 +305,12 @@
     "statusBarItem.remoteBackground": "#121212",
     "statusBarItem.remoteForeground": "#D65249",
 
-    "tab.activeBackground": "#181818",
+    "tab.activeBackground": "#1a1a1a",
     "tab.activeBorder": "#181818",
     "tab.activeBorderTop": "#d65249",
     "tab.activeForeground": "#f4f4f4",
     "tab.border": "#121212",
-    "tab.hoverBackground": "#181818",
+    "tab.hoverBackground": "#1a1a1a",
     "tab.hoverBorder": "#181818",
     "tab.hoverForeground": "#dddddd",
     "tab.inactiveBackground": "#121212",
