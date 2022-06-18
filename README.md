@@ -3,6 +3,7 @@
 #### Features:
 
 - Darker more noticable selection backgrounds
-- Easy to eyes color scheme
+- Easy to the eyes color scheme
+- Minimal Look
 
-More Variants Comming Soon!
+![Theme Preview](_docs/preview.png)
