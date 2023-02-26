@@ -1,7 +1,7 @@
 #### Steps to package & publish
 
 ```sh
-npm i -g vsce
+npm i -g @vscode/vsce
 
 vsce login surajmandalcell
 vsce package -o _releases/
