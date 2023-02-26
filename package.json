@@ -19,6 +19,23 @@
     "vscode-remix",
     "remix-themes-vscode",
     "remix-themes-vscode-extension",
+    "suraj",
+    "mandal",
+    "surajmandal",
+    "surajmandalcell",
+    "surajmandalcell.remix-theme"
+  ],
+  "keywords": [
+    "theme",
+    "vscode",
+    "remix",
+    "remix-theme",
+    "remix-themes",
+    "vscode-remix",
+    "remix-themes-vscode",
+    "remix-themes-vscode-extension",
+    "suraj",
+    "mandal",
     "surajmandal",
     "surajmandalcell",
     "surajmandalcell.remix-theme"
@@ -31,7 +48,8 @@
     "vscode": "^1.67.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "icon": "icon.png",
   "galleryBanner": {
@@ -41,9 +59,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Remix",
+        "label": "Remix Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Remix-color-theme.json"
+        "path": "./themes/remix-color-theme-dark.json"
+      },
+      {
+        "label": "Remix Light",
+        "uiTheme": "vs",
+        "path": "./themes/remix-color-theme-light.json"
       }
     ]
   },
